@@ -650,8 +650,11 @@ hr {
   height: 49px;
   background-color: #E2C40B;
   color: #ffffff;
+  font-size: 16px;
+  font-weight: 400;
   border: 1px solid #CECECE;
   border-radius: 7px;
+  cursor: pointer;
 }
 
 .footer_contain {
